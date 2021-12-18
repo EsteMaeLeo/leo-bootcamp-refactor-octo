@@ -7,36 +7,36 @@
 body {
     background-color: #d9dcd6;
 }
-
-.header {
+/*Change header class to header html*/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+/*Change header class to header html*/
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/*just to only class seo*/
+.seo {
     color: #d9dcd6;
 }
-
-.header div {
+/*Change header class to header html correct div to nav*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+/*Change header class to header html correct div to nav*/
+header nav ul {
     list-style-type: none;
 }
-
-.header div ul li {
+/*Change header class to header html correct div to nav*/
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -133,8 +133,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
+/*Change to search-engine according  new class name to format-content*/
+.format-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -160,8 +160,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+/*Change to search-engine according  new class name to format-content*/
+.format-content img {
     max-height: 200px;
 }
 
