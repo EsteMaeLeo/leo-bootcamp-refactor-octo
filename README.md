@@ -9,7 +9,7 @@
 
 
 ## Website
-https://estemaeleo.github.io/leo-bootcamp-refactor-octo/#search-engine-optimization
+https://estemaeleo.github.io/leo-bootcamp-refactor-octo/
 
 ## Website screenshot
 
